@@ -1,0 +1,268 @@
+.nav-item {
+  font-size: 24px;
+  font-weight: 700; }
+
+.slide {
+  margin-top: 1px; }
+
+.slide img {
+  height: 70vh; }
+
+.logo {
+  width: 90px; }
+
+#footer {
+  background: #b80101;
+  padding: 0 0 30px 0;
+  color: #fff;
+  font-size: 14px; }
+
+#footer .footer-top {
+  background: #e4e4e4;
+  padding: 10px 0 0px 0;
+  margin-top: 30px; }
+
+#footer .footer-top .footer-info {
+  margin-bottom: 10px;
+  color: #555555; }
+
+#footer .footer-top .footer-info h3 {
+  font-size: 24px;
+  margin: 0 0 20px 0;
+  padding: 2px 0 2px 0;
+  line-height: 1;
+  font-weight: 700; }
+
+#footer .footer-top .footer-info p {
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 0; }
+
+#footer .footer-top .social-links a {
+  font-size: 18px;
+  display: inline-block;
+  color: black;
+  line-height: 1;
+  padding: 8px 0;
+  margin-right: 4px;
+  border-radius: 0px;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+  transition: 0.3s; }
+
+#footer .footer-top .social-links a:hover {
+  background: #000000;
+  color: #fff;
+  text-decoration: none; }
+
+#footer .footer-top h4 {
+  font-size: 16px;
+  font-weight: 600;
+  position: relative;
+  padding-bottom: 12px;
+  color: #555555; }
+
+#footer .footer-top .footer-links {
+  margin-bottom: 30px; }
+
+#footer .footer-top .footer-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0; }
+
+#footer .footer-top .footer-links ul i {
+  padding-right: 2px;
+  color: #000000;
+  font-size: 18px;
+  line-height: 1; }
+
+#footer .footer-top .footer-links ul li {
+  padding: 10px 0;
+  display: flex;
+  align-items: center; }
+
+#footer .footer-top .footer-links ul li:first-child {
+  padding-top: 0; }
+
+#footer .footer-top .footer-links ul a {
+  color: #555555;
+  transition: 0.3s;
+  display: inline-block;
+  line-height: 1; }
+
+#footer .footer-top .footer-links ul a:hover {
+  color: #f7b228; }
+
+#footer .copyright {
+  text-align: center;
+  padding-top: 30px;
+  line-height: 0px; }
+
+#footer .credits {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 13px;
+  line-height: 53px; }
+
+.img-fluid {
+  max-width: 40%;
+  height: auto; }
+
+.ptitle1 {
+  font-size: 60px;
+  text-align: left;
+  border-bottom: 2px solid #adadad; }
+
+.ptitle2 {
+  font-size: 60px;
+  text-align: left;
+  border-bottom: 2px solid #adadad; }
+
+.pparra1 {
+  font-size: 28px;
+  text-align: left; }
+
+.pparra2 {
+  font-size: 28px;
+  text-align: left; }
+
+.h2test {
+  font-size: 4.5em;
+  color: white;
+  margin: 15px;
+  text-shadow: -13px -1px 12px #333, 1px -1px 1px #333, -1px 1px 1px #333, 1px 1px 1px #333; }
+
+@media (min-width: 770px) {
+  .h2test {
+    font-size: 7.5em; } }
+
+.img-fluid {
+  max-width: 40%; }
+
+@media (min-width: 770px) {
+  .img-fluid {
+    max-width: 80%; } }
+
+.sucbox {
+  font-size: 22px;
+  text-align: left; }
+
+.ccpm {
+  color: #d12613;
+  font-size: 24px;
+  font-weight: bold; }
+
+.img-fluid2 {
+  max-width: 35%; }
+
+.card-img-top {
+  max-width: 77%;
+  padding-left: 150px;
+  margin-top: 25px; }
+
+.card {
+  font-size: 30px;
+  text-align: center;
+  box-shadow: 6px 2px 10px;
+  border-radius: 25px;
+  margin-bottom: 60px;
+  margin-left: 30px;
+  margin-right: 30px;
+  height: 740px; }
+
+.card:hover {
+  box-shadow: 5px 10px 20px 1px rgba(0, 0, 0, 0.05);
+  transition: all 1s; }
+
+.card-title {
+  font-size: 40px;
+  font-weight: bold; }
+
+@media (min-width: 770px) {
+  .img-fluid2 {
+    max-width: 60%; } }
+
+@media (min-width: 770px) {
+  .card-img-top {
+    max-width: 70%; } }
+
+h6 {
+  font-size: 60px;
+  color: white;
+  margin: 60px;
+  text-shadow: -6px -1px 6px #333, 1px -1px 1px #333, -1px 1px 1px #333, 1px 1px 1px #333; }
+
+.login {
+  background-image: url(https://bee.redlink.com.ar/bse2/banco/producto/imagenes/login/bg_login1.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex; }
+
+.cardlog {
+  font-size: 30px;
+  text-align: center;
+  box-shadow: 6px 2px 10px;
+  border-radius: 25px;
+  margin-bottom: 60px;
+  margin-left: 30px;
+  margin-right: 30px; }
+
+.card-body {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.05); }
+
+.card-body form {
+  padding: 0 40px;
+  box-sizing: border-box; }
+
+form .txt_field {
+  position: relative;
+  border-bottom: 2px solid #adadad;
+  margin: 30px 0; }
+
+.txt_field input {
+  width: 100%;
+  padding: 0 5px;
+  height: 40px;
+  font-size: 20px;
+  border: none;
+  background: none;
+  outline: none; }
+
+.txt_field label {
+  position: absolute;
+  top: 50%;
+  left: 5px;
+  color: #adadad;
+  transform: translateY(-50%);
+  font-size: 25px;
+  pointer-events: none;
+  transition: .5s;
+  margin-bottom: 60px; }
+
+.pass {
+  margin: 40px 0 20px 5px;
+  color: #a6a6a6;
+  cursor: pointer; }
+
+.pass:hover {
+  text-decoration: underline; }
+
+input[type="submit"] {
+  width: 100%;
+  height: 50px;
+  border: 1px solid;
+  background: #e67d36;
+  border-radius: 25px;
+  font-size: 19px;
+  color: #ffffff;
+  font-weight: 700;
+  cursor: pointer;
+  outline: none; }
+
+.pass {
+  margin-top: 20px;
+  font-size: 20px;
+  color: #333; }
