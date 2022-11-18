@@ -247,7 +247,7 @@ h6 {
 }
 
 .login {
-    background-image: url(https://bee.redlink.com.ar/bse2/banco/producto/imagenes/login/bg_login1.jpg);
+    background-image: url(https://i.ibb.co/Sdw43jN/bg-login1-1.jpg);
     background-size: cover;
     background-attachment: fixed;
     display: flex;
@@ -265,8 +265,8 @@ h6 {
 }
 
 .card-body {
-    background: rgba(255, 255, 255, 0);
-    border-radius: 10px;
+    background: rgb(255, 255, 255);
+    border-radius: 25px;
     box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.05);
 
 }
@@ -306,9 +306,10 @@ form .txt_field {
 }
 
 .pass {
-    margin: 40px 0 20px 5px;
+    margin: 40px 0 0 5px;
     color: #a6a6a6;
     cursor: pointer;
+    padding-bottom: 15px;
 }
 
 .pass:hover {
