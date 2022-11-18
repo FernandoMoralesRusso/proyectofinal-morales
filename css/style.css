@@ -162,14 +162,14 @@
   margin-top: 25px; }
 
 .card {
+  display: flex;
   font-size: 30px;
   text-align: center;
   box-shadow: 6px 2px 10px;
   border-radius: 25px;
   margin-bottom: 60px;
   margin-left: 30px;
-  margin-right: 30px;
-  height: 740px; }
+  margin-right: 30px; }
 
 .card:hover {
   box-shadow: 5px 10px 20px 1px rgba(0, 0, 0, 0.05);
@@ -209,7 +209,7 @@ h6 {
   margin-right: 30px; }
 
 .card-body {
-  background: white;
+  background: rgba(255, 255, 255, 0);
   border-radius: 10px;
   box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.05); }
 
